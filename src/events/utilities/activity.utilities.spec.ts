@@ -15,7 +15,7 @@ import { DataSpeedAvg } from '../../data/data.speed-avg';
 import { LapTypes } from '../../laps/lap.types';
 import { DataTime } from '../../data/data.time';
 import { FileType } from '../adapters/file-type.enum';
-import { EventImporterJSON } from '../adapters/importers/json/importer.json';
+import { EventImporterJSON } from '../adapters/importers/json/importer-json';
 import { ActivityInterface } from '../../activities/activity.interface';
 
 describe('Activity Utilities', () => {

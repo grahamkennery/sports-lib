@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import { EventImporterSuuntoJSON } from './importer.suunto.json';
+import { EventImporterSuuntoJSON } from './importer.suunto-json';
 
 describe('EventImporterSuuntoJSON Integration', () => {
   // Go up 5 levels from src/events/adapters/importers/suunto -> sports-lib root

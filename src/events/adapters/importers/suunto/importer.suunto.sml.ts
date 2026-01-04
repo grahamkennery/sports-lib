@@ -1,5 +1,5 @@
 import { EventInterface } from '../../../event.interface';
-import { EventImporterSuuntoJSON } from './importer.suunto.json';
+import { EventImporterSuuntoJSON } from './importer.suunto-json';
 import { isNumber } from '../../../utilities/helpers';
 import { ActivityParsingOptions } from '../../../../activities/activity-parsing-options';
 
