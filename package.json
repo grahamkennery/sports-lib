@@ -39,8 +39,7 @@
     "lint:fix": "eslint . --ext ts --fix",
     "test": "NODE_OPTIONS=--experimental-vm-modules jest",
     "test-coverage": "NODE_OPTIONS=--experimental-vm-modules jest --coverage",
-    "prettier:fix": "prettier --write .",
-    "prepare": "husky install"
+    "prettier:fix": "prettier --write ."
   },
   "repository": {
     "type": "git",
